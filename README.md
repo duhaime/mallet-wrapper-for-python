@@ -1,0 +1,1 @@
+#This script calls MALLET from within Python. It was built to allow users who cannot successfully implement the NLTK tools within a Windows environment to call MALLET. The method employed herein should be able to call other command-line packages written in Java as well, so long as the right parameters have been established.
