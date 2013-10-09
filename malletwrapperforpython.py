@@ -14,7 +14,7 @@ input_path = mallet_path + "\\inputdirectory"
 num_topics = "100"
 num_iterations = "30000"
 
-# One coule add additional parameters here (e.g. --optimize-interval could be helpful)
+# One could add additional parameters here (e.g. --optimize-interval could be helpful)
 
 class Mallet(object):
     def __init__(self, input_path, mallet_path):
